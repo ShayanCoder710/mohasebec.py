@@ -131,7 +131,7 @@ while True:
             print("11,20:be dast avordan mohit 10 shekl hendesi motafavet.")
             print("21,25:tavan,fucktorial,fibonachi,mohasebe takhfif,print jadval zarb1,10,hal ebarat riazi")
             print("zaban barname:python")
-            print("barname nevis:SHAYAN-FM")
+            print("barname nevis:ShayanCoder")
             print("============================================================================================")
         case _:
                print("IN GOZINE VOJOD NADARAD!")
